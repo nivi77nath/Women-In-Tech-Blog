@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-transform: capitalize;
+    transition: all .2s linear;
+}
+
+.body{
+    font-size: 62.5%;
+    scroll-behavior: smooth;
+    overflow-x: hidden;
+
+}
